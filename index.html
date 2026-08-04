@@ -10,6 +10,19 @@
 <meta property="og:description" content="AI-search content for specialty manufacturers and industrial distributors. Judged on the work, not promises.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://foundvale.com/">
+<meta property="og:site_name" content="Foundvale">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://foundvale.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Foundvale — when a buyer asks AI for a supplier, who gets named?">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Foundvale — When a buyer asks AI for a supplier, who gets named?">
+<meta name="twitter:description" content="AI-search content for specialty manufacturers and industrial distributors. $500 fixed-scope audit. $1,250/mo content engine.">
+<meta name="twitter:image" content="https://foundvale.com/og.png">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="Foundvale">
+<link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23C8451B'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='38' font-weight='700' fill='%23F6F3EC' text-anchor='middle'%3EF%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,13 +30,98 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "Foundvale",
-  "url": "https://foundvale.com/",
-  "email": "hello@foundvale.com",
-  "description": "AI-search content services for specialty manufacturers and industrial distributors.",
-  "areaServed": "US",
-  "priceRange": "$500 - $1,250/mo"
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://foundvale.com/#organization",
+      "name": "Foundvale",
+      "url": "https://foundvale.com/",
+      "logo": "https://foundvale.com/og.png",
+      "email": "hello@foundvale.com",
+      "description": "Foundvale builds the content that gets specialty manufacturers and industrial distributors found and cited in AI-driven buyer research.",
+      "areaServed": {"@type":"Country","name":"United States"},
+      "knowsAbout": [
+        "Generative engine optimization",
+        "AI search visibility",
+        "AI-extractable content structure",
+        "JSON-LD schema markup",
+        "Industrial B2B content marketing",
+        "Specialty manufacturing",
+        "Industrial distribution"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://foundvale.com/#website",
+      "url": "https://foundvale.com/",
+      "name": "Foundvale",
+      "publisher": {"@id": "https://foundvale.com/#organization"},
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://foundvale.com/#service",
+      "name": "Foundvale",
+      "url": "https://foundvale.com/",
+      "parentOrganization": {"@id": "https://foundvale.com/#organization"},
+      "description": "AI-search content services for specialty manufacturers and industrial distributors.",
+      "areaServed": {"@type":"Country","name":"United States"},
+      "priceRange": "$500 - $1,250/mo",
+      "serviceType": "AI-search content and generative engine optimization",
+      "audience": {
+        "@type": "BusinessAudience",
+        "name": "Specialty manufacturers and industrial distributors, typically $2-25M revenue"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Foundvale services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "AI-Search Audit + Starter Content",
+            "description": "15 real buyer queries run across ChatGPT, Perplexity, Gemini and Google AI Overviews, logged query by query; gap analysis; 90-day content map of 12 prioritized topics; 2 complete ready-to-publish articles; 15-20 minute debrief call. Fixed two-week scope. Fee is credited to the first retainer month.",
+            "price": "500",
+            "priceCurrency": "USD",
+            "url": "https://foundvale.com/#offer",
+            "availability": "https://schema.org/InStock",
+            "itemOffered": {"@type":"Service","name":"AI-Search Visibility Audit","serviceType":"AI search visibility audit"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Content Engine",
+            "description": "4 long-form articles per month (1,200-1,800 words) built from your team's expertise via one short async questionnaire; AI-extractability rewrites for 2 existing pages per month; implementation-ready JSON-LD schema snippets; monthly AI-Visibility Snapshot tracking 10 buyer queries across 4 engines. Month-to-month with 30-day notice.",
+            "price": "1250",
+            "priceCurrency": "USD",
+            "url": "https://foundvale.com/#offer",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "1250",
+              "priceCurrency": "USD",
+              "unitText": "month",
+              "billingDuration": 1,
+              "billingIncrement": 1
+            },
+            "itemOffered": {"@type":"Service","name":"AI-Search Content Engine","serviceType":"AI-search content production"}
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://foundvale.com/#faq",
+      "isPartOf": {"@id": "https://foundvale.com/#website"},
+      "mainEntity": [
+        {"@type":"Question","name":"Do you guarantee rankings or AI citations?","acceptedAnswer":{"@type":"Answer","text":"No — and you should be skeptical of anyone who does. AI engines change constantly. Our scope is defined by deliverables: audits, articles, page specs, schema, and the monthly Snapshot. You judge the work every month, and you can leave with 30 days' notice."}},
+        {"@type":"Question","name":"Do you use AI to produce the content?","acceptedAnswer":{"@type":"Answer","text":"Yes — AI-leveraged production with human review on everything that ships. Every technical claim — spec, tolerance, material grade, certification — is sourced from your questionnaire answers or your published materials. Anything unsourced doesn't ship."}},
+        {"@type":"Question","name":"How much of our team's time does this take?","acceptedAnswer":{"@type":"Answer","text":"About 30 minutes in month one for the questionnaire, then a few minutes a month. No standing calls. Discovery and debrief calls are scheduled at booking."}},
+        {"@type":"Question","name":"What if we don't get the questionnaire back to you one month?","acceptedAnswer":{"@type":"Answer","text":"Nothing stalls and nothing gets invented. We substitute topics we already have verified input for — it's written into the agreement."}},
+        {"@type":"Question","name":"Who owns the content?","acceptedAnswer":{"@type":"Answer","text":"You do. All IP transfers on payment. Everything is delivered in editable formats your team publishes on your own site."}},
+        {"@type":"Question","name":"Why is the pilot only $500?","acceptedAnswer":{"@type":"Answer","text":"It's deliberately small — a fixed two-week scope so you can judge us on actual work product instead of promises. The fee is credited to your first retainer month if you continue."}},
+        {"@type":"Question","name":"What kinds of companies is this for?","acceptedAnswer":{"@type":"Answer","text":"Specialty manufacturers and industrial distributors, typically $2–25M revenue, with little or no in-house marketing staff. If you're bigger and fully staffed, an enterprise agency is probably a better fit — we'll say so."}}
+      ]
+    }
+  ]
 }
 </script>
 <style>

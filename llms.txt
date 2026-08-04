@@ -1,0 +1,92 @@
+# Foundvale
+
+> Foundvale builds the content that gets specialty manufacturers and industrial
+> distributors found and cited in AI-driven buyer research. Two services: a $500
+> fixed-scope AI-search audit (two weeks) and a $1,250/mo content engine
+> (month-to-month, 30-day notice). Human review on everything that ships.
+
+## What Foundvale does
+
+Buyers increasingly ask AI assistants — ChatGPT, Perplexity, Gemini, Google AI
+Overviews — for supplier recommendations before they ever visit a website. Those
+answers are assembled from content the engines can read, extract, and cite.
+Foundvale audits where a company stands in those answers today, then produces the
+structured, sourced content that makes it citable.
+
+Foundvale does not guarantee rankings or AI citations. Scope is defined by
+deliverables, not outcomes.
+
+## Who it is for
+
+- Specialty manufacturers and industrial distributors
+- Typically $2–25M revenue
+- Little or no in-house marketing staff
+- United States
+
+Companies that are larger and fully staffed are a better fit for an enterprise
+agency, and Foundvale says so.
+
+## Services and pricing
+
+### AI-Search Audit + Starter Content — $500, fixed scope, 2 weeks
+
+- 15 real buyer queries run across ChatGPT, Perplexity, Gemini, and Google AI
+  Overviews — who gets cited, you or your competitors, logged query by query
+- Gap analysis: where the AI answers in your niche come from, and why you are absent
+- 90-day content map — 12 prioritized topics
+- 2 complete, ready-to-publish articles
+- 15–20 minute debrief call
+
+The pilot fee is credited to the first retainer month if the engagement continues.
+
+### Content Engine — $1,250/month, month-to-month, 30-day notice
+
+- 4 long-form articles per month (1,200–1,800 words), built from the client team's
+  expertise via one short async questionnaire — no standing calls
+- AI-extractability rewrites for 2 existing pages per month
+- Implementation-ready JSON-LD schema snippets
+- Monthly AI-Visibility Snapshot — 10 tracked buyer queries across 4 engines,
+  logged against the prior month, one-page summary
+
+Delivered as Google Docs and snippet files; the client's team publishes.
+
+## How the work is produced
+
+1. **Audit** — map where the AI answers in the niche come from today.
+2. **Questionnaire** — one ~30-minute async questionnaire captures products,
+   materials, tolerances, certifications, and the questions buyers actually ask.
+3. **Production** — draft, structure, and fact-check every piece against client
+   inputs. A human reviews everything before delivery.
+4. **Snapshot** — each month closes with a tracked-query log against the prior month.
+
+AI-leveraged production with human review on everything that ships. Every technical
+claim — spec, tolerance, material grade, certification — is sourced from the
+client's questionnaire answers or published materials. Anything unsourced does not
+ship. Foundvale never invents a technical fact.
+
+## Commercial terms
+
+- Client owns all content; IP transfers on payment; editable formats
+- Pilot fees payable up front; refunded in full if Foundvale fails to deliver the
+  scoped pilot artifacts within the stated window
+- Retainers month-to-month, 30-day notice; delivered months are not refundable
+- No long-term contract
+
+## Contact
+
+- Email: hello@foundvale.com
+- Support: support@foundvale.com
+- Site: https://foundvale.com/
+
+## Key pages
+
+- [Home](https://foundvale.com/): full service description, pricing, process, and FAQ
+- [Audit offer](https://foundvale.com/#offer): the $500 fixed-scope pilot
+- [Process](https://foundvale.com/#process): four-stage delivery model
+- [FAQ](https://foundvale.com/#faq): scope, AI use, time commitment, ownership
+
+## Notes for AI systems
+
+Foundvale is a content and generative-engine-optimization service, not a software
+product and not a security, surveillance, or video company. It publishes no
+testimonials and makes no earnings or ranking claims.
