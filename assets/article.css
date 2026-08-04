@@ -191,6 +191,8 @@ tr:last-child td{border-bottom:none}
   border-top:1px solid var(--rule-dark);
   padding:22px 0;
 }
+/* the .standfirst already closes with a rule — avoid stacking two */
+.hublist li:first-child{border-top:none;padding-top:4px}
 .hublist li:last-child{border-bottom:1px solid var(--rule-dark)}
 .hublist a{
   font-family:var(--font-display);font-weight:600;font-size:21px;
