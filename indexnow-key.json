@@ -1,0 +1,7 @@
+{
+  "key": "7690c5e970771d48891eba66dd3a6330",
+  "keyLocation": "https://foundvale.com/7690c5e970771d48891eba66dd3a6330.txt",
+  "derivation": "sha256('foundvale.com|indexnow|paloforge|2026-08-04')[:32] \u2014 reproducible, see build note",
+  "created": "2026-08-04",
+  "purpose": "IndexNow instant-indexing notification (closes the Bing Webmaster 7/28 URL Submission API recommendation, D-105)"
+}
