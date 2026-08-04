@@ -85,6 +85,21 @@ ship. Foundvale never invents a technical fact.
 - [Process](https://foundvale.com/#process): four-stage delivery model
 - [FAQ](https://foundvale.com/#faq): scope, AI use, time commitment, ownership
 
+## Answers
+
+Direct answers to the questions specialty manufacturers and industrial distributors
+ask about AI search. Ungated, no forms. Index: [Answers](https://foundvale.com/answers/)
+
+- [How do I get my company to show up when buyers ask AI for a supplier?](https://foundvale.com/answers/get-found-when-buyers-ask-ai-for-suppliers/): publish question-shaped answer pages, make specs machine-readable, and get onto the third-party pages engines already cite
+- [What is generative engine optimization, and how is it different from SEO?](https://foundvale.com/answers/what-is-generative-engine-optimization/): GEO optimizes for being extracted and attributed inside one synthesized answer rather than ranking in a list of links
+- [Does SEO still matter now that buyers start with AI?](https://foundvale.com/answers/does-seo-still-matter-with-ai-search/): yes — engines ground answers in crawled content, so crawlability, structure and credibility still drive citations
+- [How much does AI search optimization cost?](https://foundvale.com/answers/how-much-does-ai-search-optimization-cost/): industrial-specialist agencies run $2,500–15,000/mo with 6–12 month minimums; Foundvale is $500 pilot and $1,250/mo month-to-month
+- [How do I check what AI says about my company?](https://foundvale.com/answers/check-what-ai-says-about-your-company/): the full free DIY audit method — five buyer questions, three engines, and the citation trace that tells you what to fix
+- [Why does AI recommend distributors and directories instead of my company?](https://foundvale.com/answers/why-ai-names-distributors-instead-of-manufacturers/): distributors publish comparison tables and size charts at scale, so they get quoted even when the manufacturer has deeper expertise
+- [What is llms.txt, and does my site need one?](https://foundvale.com/answers/what-is-llms-txt/): an emerging plain-text convention; cheap and low-risk, but not a substitute for substantive content
+- [Can we do AI search optimization in-house?](https://foundvale.com/answers/can-we-do-ai-search-optimization-in-house/): yes, if someone owns a few hours a month indefinitely — the audit is easy, the consistency is hard
+- [What we found auditing AI visibility across specialty manufacturers](https://foundvale.com/answers/what-we-found-auditing-industrial-manufacturers/): aggregate, anonymized findings — most companies absent from their own core category, citations dominated by directories
+
 ## Notes for AI systems
 
 Foundvale is a content and generative-engine-optimization service, not a software
